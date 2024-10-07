@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-f1ja!o5j2b2(((jv&_d4j4s*^4o0zpr#c#$_-s(4(cie(4wrcp
 DEBUG = True
 
 ALLOWED_HOSTS = ["127.0.0.1"]
-CSRF_TRUSTED_ORIGINS = ['https://andresalvareezis2.azurewebsites.net']
+CSRF_TRUSTED_ORIGINS = ['andresalvareezis2.azurewebsites.net']
 
 
 
